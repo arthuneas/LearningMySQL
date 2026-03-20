@@ -39,7 +39,7 @@ O foco principal do estudo recai sobre a **Integridade Referencial**. O objetivo
 
 
 
-## 🛠️ Stack de Gerenciamento
+## Stack de Gerenciamento
 
 * **MySQL Workbench:** Engenharia reversa e diagramação.
 * **Docker:** Orquestração de instâncias de banco de dados para ambientes de teste.
